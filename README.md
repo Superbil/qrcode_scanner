@@ -5,7 +5,7 @@ Language: [English](README.md) | [中文简体](README-ZH.md)
 [![License][license-image]][license-url] 
 [![Pub](https://img.shields.io/pub/v/qrscan.svg?style=flat-square)](https://pub.dartlang.org/packages/qrscan)
 
-A Flutter plugin 🛠 to scanning. Ready for Android 🚀
+A Flutter plugin 🛠 to scanning. Only ready for Android 🚀
 
 [github](https://github.com/leyan95/qrcode_scanner)
 
